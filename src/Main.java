@@ -4,8 +4,8 @@ public class Main {
         Animal a1 = new Dog();
         a1.makeSound();
 
-        Animal a2 = new Sheep();
-        a2.makeSound();
+        Animal sheep = new Sheep();
+        sheep.makeSound();
 
     }
 
