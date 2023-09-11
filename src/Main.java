@@ -8,8 +8,8 @@ public class Main {
 
 
         //instancia propia
-        Animal a2 = new Cow();
-        a2.makeSound();
+        Animal cow = new Cow();
+        cow.makeSound();
 
     }
 
