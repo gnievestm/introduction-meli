@@ -6,6 +6,9 @@ public class Main {
         Animal cat = new Cat();
         cat.makeSound();
 
+        Animal horse = new Horse();
+        horse.makeSound();
+
     }
 
 }
