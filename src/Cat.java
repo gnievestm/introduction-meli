@@ -1,4 +1,4 @@
-class Cat extends Animal {
+class CatSount extends Animal {
     @Override
     public void makeSound() {
         System.out.println("The cat barks: miauuuu!");
