@@ -1,11 +1,16 @@
 
 public class Main {
     public static void main(String[] args) {
+
+        //instancia de ejemplo
         Animal a1 = new Dog();
-        Animal fox = new Fox();
         a1.makeSound();
 
+        Animal fox = new Fox();
         fox.makeSound();
+      
+        Animal cow = new Cow();
+        cow.makeSound();
 
         Animal cat = new Cat();
         cat.makeSound();
